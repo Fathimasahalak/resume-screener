@@ -1,6 +1,6 @@
 AI-Powered Resume Screener Aurify
 
-Resume Screener AI is a web application that allows users to upload resumes and job descriptions to automatically evaluate candidate-job compatibility using AI. It uses Flask for backend processing, Cloudinary for file storage, and Relay for AI-powered analysis
+Resume Screener AI is a web application that allows users to upload resumes to automatically evaluate candidate-job compatibility using AI. It uses Flask for backend processing, Cloudinary for file storage, and Relay for AI-powered analysis
 
 
 Team Details
